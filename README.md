@@ -1,4 +1,4 @@
-Example testing framework for '' using Cypress with JavaScript.
+Example testing framework for using Cypress with JavaScript.
 
 ## Pre-requistes
 
